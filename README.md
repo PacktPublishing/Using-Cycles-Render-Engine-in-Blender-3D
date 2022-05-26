@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V08204?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Using Cycles Render Engine in Blender 3D [Video]
 This is the code repository for [Using Cycles Render Engine in Blender 3D [Video]](https://www.packtpub.com/web-development/using-cycles-render-engine-blender-3d-video?utm_source=github&utm_medium=repository&utm_campaign=9781788391504), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
